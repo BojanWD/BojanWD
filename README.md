@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BojanWD
 - 👀 I'm currently working as a front-end developer at b-op services.
-- I’m interested in working as a front-end developer (React.js and Angular.js)
 - 🌱 I’m currently learning back-end side of web applications.
 - 📫 You can reach me using my email: bojan.branovacki@gmail.com
 
